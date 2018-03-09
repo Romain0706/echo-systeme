@@ -13,6 +13,8 @@
     "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
+    "EventEmitter": "^1.0.0",
+    "auth0-js": "^9.3.2",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.7",
     "vue": "^2.5.2",
